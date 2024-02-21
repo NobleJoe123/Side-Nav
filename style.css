@@ -329,11 +329,11 @@ a:focus {
     box-shadow: none !important;
 }
 
-[data-component=navbar] {
-    /* Right Menu Dropdowns */
-    /* Notification */
-    /* Notification Dropdown */
-}
+ /* [data-component=navbar] { 
+    Right Menu Dropdowns 
+     Notification
+    Notification Dropdown 
+} */
 
 [data-component=navbar] .navbar {
     background-color: #fff;
